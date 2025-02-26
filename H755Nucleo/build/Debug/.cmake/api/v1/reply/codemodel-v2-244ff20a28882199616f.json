@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "H755Nucleo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "H755Nucleo_CM4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H755Nucleo_CM4-Debug-2aeb30af6fc5f56bbde9.json",
+					"name" : "H755Nucleo_CM4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H755Nucleo_CM7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H755Nucleo_CM7-Debug-d608d5cdc8a150ea60a9.json",
+					"name" : "H755Nucleo_CM7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/joshuayu/Desktop/mixerFirmware/H755Nucleo/build/Debug",
+		"source" : "/Users/joshuayu/Desktop/mixerFirmware/H755Nucleo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
